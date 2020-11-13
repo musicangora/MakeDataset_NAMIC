@@ -1,0 +1,2 @@
+# MakeDataset_NAMIC
+MRIデータからpix2pixやCycleGAN用のデータセットを作成
